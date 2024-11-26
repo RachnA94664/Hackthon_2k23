@@ -34,7 +34,7 @@
 
   <p align="center">
     
-The university is positioned at the forefront of the initiative, charged with leveraging advanced analytics and machine learning to uncover patterns within the rich dataset. A fundamental requirement entails ensuring that the insights and recommendations developed by participants remain accessible to the broader public. The university's role extends beyond providing technical solutions; it involves bridging the gap, rendering valuable insights easily comprehensible and usable for the general public. This contribution plays a significant role in the democratization of education data and aligns with the principles of SDG 4. Consequently, the government anticipates the delivery of a prototype showcasing various insights and the application of predictive models.
+Post-Traumatic Stress Disorder (PTSD) is a mental health condition that can develop after someone experiences or witnesses a traumatic event. Symptoms include flashbacks, nightmares, anxiety, hypervigilance, and avoidance of reminders of the trauma. PTSD can cause emotional numbness, depression, and difficulty with relationships. Treatment typically involves therapy, such as Cognitive Behavioral Therapy (CBT), and sometimes medication to manage symptoms. Left untreated, PTSD can significantly affect a person's life and well-being.
     <br />
   </p>
 </div>
@@ -73,13 +73,21 @@ The university is positioned at the forefront of the initiative, charged with le
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+Project Overview: This project focuses on exploring Post-Traumatic Stress Disorder (PTSD), a mental health condition that affects individuals after experiencing or witnessing traumatic events. The aim is to raise awareness about PTSD, its symptoms, and treatment options while providing support and resources to those impacted by the disorder.
+
+Objectives: The project aims to educate the public about PTSD, its causes, and its symptoms. It will also explore current treatment methods, including therapy and medication, and create resources for individuals affected by PTSD. Raising awareness and reducing the stigma surrounding mental health is a core goal.
+
+Scope and Methodology: The project will involve a literature review of existing research on PTSD and its impact on different populations. Interviews with mental health professionals and survivors will provide valuable insights. The project will also include workshops, seminars, and awareness campaigns to educate the public and encourage people to seek help.
+
+Treatment and Support: The project will focus on available treatment options such as Cognitive Behavioral Therapy (CBT), Eye Movement Desensitization and Reprocessing (EMDR), and support groups. It will also provide information on how to access these treatments and services.
+
+Expected Outcomes: The project aims to increase public awareness of PTSD, reduce stigma, and empower individuals to seek treatment. By providing resources and support, the project hopes to improve the quality of life for those affected by PTSD.
 
 
-The Department of Education, Government of India, is currently immersed in an extensive investigation into the factors influencing student performance, aligning with the UN Sustainable Development Goal 4 - Quality Education. Conducting a thorough survey across schools, the government has meticulously collected comprehensive data, emphasizing a detailed analysis of socio-economic factors within families. This dataset provides crucial insights into the nuanced elements that impact educational outcomes.
 
-This research initiative aims to dissect the influence of socio-economic factors on student performance. By democratizing accessible insights, the initiative empowers policymakers and educators to implement targeted interventions, fostering inclusive and equitable education. The overarching goal is to contribute to societal advancement in alignment with UN Sustainable Development Goal 4.
 
-At the forefront of this transformative initiative is Team Pere Pere, tasked with employing advanced analytics and machine learning to uncover patterns within the rich dataset. A pivotal aspect of this endeavor is ensuring that the insights and recommendations developed by participants go beyond technical boundaries and are accessible to the wider public. The role is not merely to provide technical solutions but to bridge the gap, making valuable insights easily understandable and usable by the general public. This commitment represents a significant stride towards the democratization of education data, embodying the principles of SDG 4.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
