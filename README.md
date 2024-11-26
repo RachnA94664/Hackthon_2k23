@@ -34,7 +34,7 @@
 
   <p align="center">
     
-The university is positioned at the forefront of the initiative, charged with leveraging advanced analytics and machine learning to uncover patterns within the rich dataset. A fundamental requirement entails ensuring that the insights and recommendations developed by participants remain accessible to the broader public. The university's role extends beyond providing technical solutions; it involves bridging the gap, rendering valuable insights easily comprehensible and usable for the general public. This contribution plays a significant role in the democratization of education data and aligns with the principles of SDG 4. Consequently, the government anticipates the delivery of a prototype showcasing various insights and the application of predictive models.
+Post-Traumatic Stress Disorder (PTSD) is a mental health condition that can develop after someone experiences or witnesses a traumatic event. Symptoms include flashbacks, nightmares, anxiety, hypervigilance, and avoidance of reminders of the trauma. PTSD can cause emotional numbness, depression, and difficulty with relationships. Treatment typically involves therapy, such as Cognitive Behavioral Therapy (CBT), and sometimes medication to manage symptoms. Left untreated, PTSD can significantly affect a person's life and well-being.
     <br />
   </p>
 </div>
